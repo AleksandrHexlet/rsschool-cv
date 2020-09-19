@@ -1,5 +1,5 @@
-# Alexandr Kuznetsov
-### +7(964)506-43-44; email: AlexandrHexlet@yandex.ru
+# Alexander Kuznetsov
+### +7(777)777-77-77; email: AlexandrDHL@yandex.ru
 ### I am developing rapidly and really appreciate a good team and interesting tasks. I try to write the code as simple and convenient as possible for those who will then read this code.
 #### Javascript. Node.js. HTML. CSS. NPM. API. Promise. Методология БЭМ. Express.js
 #### Code examples
